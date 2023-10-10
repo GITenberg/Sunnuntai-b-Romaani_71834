@@ -1,0 +1,24 @@
+_repo: Sunnuntai-b-Romaani_71834
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ståhlberg, Ester
+    gutenberg_agent_id: '56418'
+    url: http://www.gutenberg.org/2009/agents/56418
+description: ''
+gutenberg_issued: '2023-10-08'
+identifiers:
+  gutenberg: '71834'
+language: fi
+pgterms:marc905: 20230929114140sthlberg
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sunnuntai : $b Romaani'
+url: http://www.gutenberg.org/ebooks/71834
